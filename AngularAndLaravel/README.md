@@ -35,7 +35,7 @@
 <a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/tree/main/AngularAndLaravel/app/Repositories">có thể tham khảo ở  đây</a><br>
 <b>Bước 11 tạo 1 file StaffsRepositoryImpl.php   ở trong folder Impl</b><br>
 <a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/blob/main/AngularAndLaravel/app/Repositories/Impl/StaffsRepositoryImpl.php">có thể tham khảo ở  đây</a><br>
-<b>Bước 5 vào folder Providers vào file AppServiceProvider.php để đăng ký</b><br>
+<b>Bước 12 vào folder Providers vào file AppServiceProvider.php để đăng ký</b><br>
 <a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/blob/main/AngularAndLaravel/app/Providers/AppServiceProvider.php">có thể tham khảo ở  đây</a><br>
 
 </body>
