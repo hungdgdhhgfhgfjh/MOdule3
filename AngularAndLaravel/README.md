@@ -7,7 +7,7 @@
 
 </head>
 <body>
-    <b>Bước 1 tạo 1 forder Services ở trong folder App</b>
+      <b>Bước 1 tạo 1 forder Services ở trong folder App</b>
     <br>
     <a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/tree/main/AngularAndLaravel/app">có thể tham khảo ở  đây </a>
     <br>
@@ -37,6 +37,8 @@
 <a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/blob/main/AngularAndLaravel/app/Repositories/Impl/StaffsRepositoryImpl.php">có thể tham khảo ở  đây</a><br>
 <b>Bước 12 vào folder Providers vào file AppServiceProvider.php để đăng ký</b><br>
 <a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/blob/main/AngularAndLaravel/app/Providers/AppServiceProvider.php">có thể tham khảo ở  đây</a><br>
+<b>bước 13 vào file api.php ở trong routes </b><br>
+<a href="https://github.com/hungdgdhhgfhgfjh/MOdule3/blob/main/AngularAndLaravel/routes/api.php">có thể tham khảo ở  đây</a><br>
 
 </body>
 </html>
